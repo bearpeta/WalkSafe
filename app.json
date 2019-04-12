@@ -23,7 +23,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bearpeta.walksafe"
+    },
+    "android": {
+      "package": "com.bearpeta.walksafe",
+      "versionCode": 1
     }
   }
 }
